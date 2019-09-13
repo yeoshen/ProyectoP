@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "html.format.enable": true,
+    "html.suggest.html5": true,
+    "html.validate.scripts": true,
+    "html.validate.styles": true,
+    "python.linting.pylintArgs": [],
+    "python.linting.pylintUseMinimalCheckers": true,
+}

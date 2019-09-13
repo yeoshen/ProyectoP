@@ -1,0 +1,1109 @@
+
+2018-12-13 23:32:07
+Se compraron 0.05879 BCHSV por 0.0014099 Precio compra:0.023982
+Precio Promedio BCHSV: 0.02397676
+Valoración: 0.0015
+======================================
+2018-12-13 23:32:14
+Se vendieron 0.05879 BCHSV por 0.00141172 Precio venta: 0.024013
+Precio Promedio BCHSV: 0.02397737
+Valoración: 0.00150182
+Beneficio/Pérdida: 1.82e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:32:15
+Se compraron 0.05879 BCHSV por 0.00141172 Precio compra:0.024013
+Precio Promedio BCHSV: 0.02397737
+Valoración: 0.00150182
+======================================
+2018-12-13 23:32:36
+Se vendieron 0.05879 BCHSV por 0.00141008 Precio venta: 0.023985
+Precio Promedio BCHSV: 0.0239769
+Valoración: 0.00150018
+Beneficio/Pérdida: -1.65e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:32:37
+Se compraron 0.05879 BCHSV por 0.00141008 Precio compra:0.023985
+Precio Promedio BCHSV: 0.0239769
+Valoración: 0.00150018
+======================================
+2018-12-13 23:32:38
+Se vendieron 0.05879 BCHSV por 0.00141167 Precio venta: 0.024012
+Precio Promedio BCHSV: 0.02397735
+Valoración: 0.00150176
+Beneficio/Pérdida: 1.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:32:39
+Se compraron 0.05879 BCHSV por 0.00141167 Precio compra:0.024012
+Precio Promedio BCHSV: 0.02397735
+Valoración: 0.00150176
+======================================
+2018-12-13 23:32:43
+Se vendieron 0.05879 BCHSV por 0.00141008 Precio venta: 0.023985
+Precio Promedio BCHSV: 0.0239769
+Valoración: 0.00150018
+Beneficio/Pérdida: -1.59e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:32:44
+Se compraron 0.05879 BCHSV por 0.00141008 Precio compra:0.023985
+Precio Promedio BCHSV: 0.0239769
+Valoración: 0.00150018
+======================================
+2018-12-13 23:32:46
+Se vendieron 0.05879 BCHSV por 0.00141178 Precio venta: 0.024014
+Precio Promedio BCHSV: 0.02397738
+Valoración: 0.00150188
+Beneficio/Pérdida: 1.7e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:32:47
+Se compraron 0.05879 BCHSV por 0.00141178 Precio compra:0.024014
+Precio Promedio BCHSV: 0.02397738
+Valoración: 0.00150188
+======================================
+2018-12-13 23:32:57
+Se vendieron 0.05879 BCHSV por 0.00141014 Precio venta: 0.023986
+Precio Promedio BCHSV: 0.02397692
+Valoración: 0.00150024
+Beneficio/Pérdida: -1.65e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:32:58
+Se compraron 0.05879 BCHSV por 0.00141014 Precio compra:0.023986
+Precio Promedio BCHSV: 0.02397692
+Valoración: 0.00150024
+======================================
+2018-12-13 23:33:12
+Se vendieron 0.05879 BCHSV por 0.00140826 Precio venta: 0.023954
+Precio Promedio BCHSV: 0.02397538
+Valoración: 0.00149835
+Beneficio/Pérdida: -1.88e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:33:13
+Se compraron 0.05879 BCHSV por 0.00140843 Precio compra:0.023957
+Precio Promedio BCHSV: 0.02397543
+Valoración: 0.00149835
+======================================
+2018-12-13 23:33:41
+Se vendieron 0.05879 BCHSV por 0.00141025 Precio venta: 0.023988
+Precio Promedio BCHSV: 0.02397595
+Valoración: 0.00150018
+Beneficio/Pérdida: 1.82e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:33:42
+Se compraron 0.05879 BCHSV por 0.00141025 Precio compra:0.023988
+Precio Promedio BCHSV: 0.02397595
+Valoración: 0.00150018
+======================================
+2018-12-13 23:34:16
+Se vendieron 0.05879 BCHSV por 0.0014139 Precio venta: 0.02405
+Precio Promedio BCHSV: 0.02397415
+Valoración: 0.00150382
+Beneficio/Pérdida: 3.64e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:34:17
+Se compraron 0.05879 BCHSV por 0.0014139 Precio compra:0.02405
+Precio Promedio BCHSV: 0.02397415
+Valoración: 0.00150382
+======================================
+2018-12-13 23:34:19
+Se vendieron 0.05879 BCHSV por 0.00140937 Precio venta: 0.023973
+Precio Promedio BCHSV: 0.02397287
+Valoración: 0.00149929
+Beneficio/Pérdida: -4.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:34:20
+Se compraron 0.05879 BCHSV por 0.00140937 Precio compra:0.023973
+Precio Promedio BCHSV: 0.02397287
+Valoración: 0.00149929
+======================================
+2018-12-13 23:34:29
+Se vendieron 0.05879 BCHSV por 0.00141419 Precio venta: 0.024055
+Precio Promedio BCHSV: 0.02397423
+Valoración: 0.00150412
+Beneficio/Pérdida: 4.82e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:34:30
+Se compraron 0.05879 BCHSV por 0.00141419 Precio compra:0.024055
+Precio Promedio BCHSV: 0.02397423
+Valoración: 0.00150412
+======================================
+2018-12-13 23:34:43
+Se vendieron 0.05879 BCHSV por 0.0014112 Precio venta: 0.024004
+Precio Promedio BCHSV: 0.02397338
+Valoración: 0.00150112
+Beneficio/Pérdida: -3e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:34:44
+Se compraron 0.05879 BCHSV por 0.0014112 Precio compra:0.024004
+Precio Promedio BCHSV: 0.02397338
+Valoración: 0.00150112
+======================================
+2018-12-13 23:35:08
+Se vendieron 0.05879 BCHSV por 0.00141314 Precio venta: 0.024037
+Precio Promedio BCHSV: 0.02397262
+Valoración: 0.00150306
+Beneficio/Pérdida: 1.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:35:10
+Se compraron 0.05879 BCHSV por 0.00141314 Precio compra:0.024037
+Precio Promedio BCHSV: 0.02397262
+Valoración: 0.00150306
+======================================
+2018-12-13 23:35:24
+Se vendieron 0.05879 BCHSV por 0.00141508 Precio venta: 0.02407
+Precio Promedio BCHSV: 0.02397317
+Valoración: 0.001505
+Beneficio/Pérdida: 1.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:35:25
+Se compraron 0.05879 BCHSV por 0.00141508 Precio compra:0.02407
+Precio Promedio BCHSV: 0.02397317
+Valoración: 0.001505
+======================================
+2018-12-13 23:36:36
+Se vendieron 0.05879 BCHSV por 0.00141672 Precio venta: 0.024098
+Precio Promedio BCHSV: 0.02397367
+Valoración: 0.00150664
+Beneficio/Pérdida: 1.65e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:36:37
+Se compraron 0.05879 BCHSV por 0.00141672 Precio compra:0.024098
+Precio Promedio BCHSV: 0.02397367
+Valoración: 0.00150664
+======================================
+2018-12-13 23:37:12
+Se vendieron 0.05879 BCHSV por 0.00141184 Precio venta: 0.024015
+Precio Promedio BCHSV: 0.02397342
+Valoración: 0.00150176
+Beneficio/Pérdida: -4.88e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:37:13
+Se compraron 0.05879 BCHSV por 0.00141655 Precio compra:0.024095
+Precio Promedio BCHSV: 0.02397475
+Valoración: 0.00150176
+======================================
+2018-12-13 23:37:23
+Se vendieron 0.05879 BCHSV por 0.00141384 Precio venta: 0.024049
+Precio Promedio BCHSV: 0.02397398
+Valoración: 0.00149906
+Beneficio/Pérdida: -2.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:37:24
+Se compraron 0.05879 BCHSV por 0.00141384 Precio compra:0.024049
+Precio Promedio BCHSV: 0.02397398
+Valoración: 0.00149906
+======================================
+2018-12-13 23:37:34
+Se vendieron 0.05879 BCHSV por 0.0014156 Precio venta: 0.024079
+Precio Promedio BCHSV: 0.02397448
+Valoración: 0.00150082
+Beneficio/Pérdida: 1.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:37:35
+Se compraron 0.05879 BCHSV por 0.0014156 Precio compra:0.024079
+Precio Promedio BCHSV: 0.02397448
+Valoración: 0.00150082
+======================================
+2018-12-13 23:40:15
+Se vendieron 0.05879 BCHSV por 0.00141872 Precio venta: 0.024132
+Precio Promedio BCHSV: 0.0239787
+Valoración: 0.00150394
+Beneficio/Pérdida: 3.12e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:40:16
+Se compraron 0.05879 BCHSV por 0.00141872 Precio compra:0.024132
+Precio Promedio BCHSV: 0.0239787
+Valoración: 0.00150394
+======================================
+2018-12-13 23:40:22
+Se vendieron 0.05879 BCHSV por 0.00141543 Precio venta: 0.024076
+Precio Promedio BCHSV: 0.02397777
+Valoración: 0.00150065
+Beneficio/Pérdida: -3.29e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:40:23
+Se compraron 0.05879 BCHSV por 0.00141543 Precio compra:0.024076
+Precio Promedio BCHSV: 0.02397777
+Valoración: 0.00150065
+======================================
+2018-12-13 23:40:33
+Se vendieron 0.05879 BCHSV por 0.00141837 Precio venta: 0.024126
+Precio Promedio BCHSV: 0.0239786
+Valoración: 0.00150359
+Beneficio/Pérdida: 2.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:40:33
+Se compraron 0.05879 BCHSV por 0.0014169 Precio compra:0.024101
+Precio Promedio BCHSV: 0.02397818
+Valoración: 0.00150359
+======================================
+2018-12-13 23:41:46
+Se vendieron 0.05879 BCHSV por 0.00141849 Precio venta: 0.024128
+Precio Promedio BCHSV: 0.02398047
+Valoración: 0.00150517
+Beneficio/Pérdida: 1.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:41:49
+Se compraron 0.05879 BCHSV por 0.00141849 Precio compra:0.024128
+Precio Promedio BCHSV: 0.02398047
+Valoración: 0.00150517
+======================================
+2018-12-13 23:41:54
+Se vendieron 0.05879 BCHSV por 0.0014169 Precio venta: 0.024101
+Precio Promedio BCHSV: 0.02398002
+Valoración: 0.00150359
+Beneficio/Pérdida: -1.59e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:41:56
+Se compraron 0.05879 BCHSV por 0.0014169 Precio compra:0.024101
+Precio Promedio BCHSV: 0.02398002
+Valoración: 0.00150359
+======================================
+2018-12-13 23:41:57
+Se vendieron 0.05879 BCHSV por 0.00142084 Precio venta: 0.024168
+Precio Promedio BCHSV: 0.02398113
+Valoración: 0.00150753
+Beneficio/Pérdida: 3.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:41:59
+Se compraron 0.05879 BCHSV por 0.00142084 Precio compra:0.024168
+Precio Promedio BCHSV: 0.02398113
+Valoración: 0.00150753
+======================================
+2018-12-13 23:42:01
+Se vendieron 0.05879 BCHSV por 0.00141754 Precio venta: 0.024112
+Precio Promedio BCHSV: 0.0239802
+Valoración: 0.00150423
+Beneficio/Pérdida: -3.29e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:42:03
+Se compraron 0.05879 BCHSV por 0.00141754 Precio compra:0.024112
+Precio Promedio BCHSV: 0.02398075
+Valoración: 0.00150423
+======================================
+2018-12-13 23:42:26
+Se vendieron 0.05879 BCHSV por 0.00141948 Precio venta: 0.024145
+Precio Promedio BCHSV: 0.02398348
+Valoración: 0.00150617
+Beneficio/Pérdida: 1.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:42:28
+Se compraron 0.05879 BCHSV por 0.00141743 Precio compra:0.02411
+Precio Promedio BCHSV: 0.0239829
+Valoración: 0.00150617
+======================================
+2018-12-13 23:42:33
+Se vendieron 0.05879 BCHSV por 0.00141919 Precio venta: 0.02414
+Precio Promedio BCHSV: 0.0239834
+Valoración: 0.00150794
+Beneficio/Pérdida: 1.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:42:36
+Se compraron 0.05879 BCHSV por 0.00141919 Precio compra:0.02414
+Precio Promedio BCHSV: 0.0239834
+Valoración: 0.00150794
+======================================
+2018-12-13 23:44:06
+Se vendieron 0.05879 BCHSV por 0.00141684 Precio venta: 0.0241
+Precio Promedio BCHSV: 0.02398853
+Valoración: 0.00150559
+Beneficio/Pérdida: -2.35e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:44:08
+Se compraron 0.05879 BCHSV por 0.00141684 Precio compra:0.0241
+Precio Promedio BCHSV: 0.02398853
+Valoración: 0.00150559
+======================================
+2018-12-13 23:44:10
+Se vendieron 0.05879 BCHSV por 0.0014186 Precio venta: 0.02413
+Precio Promedio BCHSV: 0.02398903
+Valoración: 0.00150735
+Beneficio/Pérdida: 1.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:44:12
+Se compraron 0.05879 BCHSV por 0.0014186 Precio compra:0.02413
+Precio Promedio BCHSV: 0.02398903
+Valoración: 0.00150735
+======================================
+2018-12-13 23:45:02
+Se vendieron 0.05879 BCHSV por 0.00142072 Precio venta: 0.024166
+Precio Promedio BCHSV: 0.02399078
+Valoración: 0.00150947
+Beneficio/Pérdida: 2.12e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:45:05
+Se compraron 0.05879 BCHSV por 0.00142072 Precio compra:0.024166
+Precio Promedio BCHSV: 0.02399078
+Valoración: 0.00150947
+======================================
+2018-12-13 23:45:08
+Se vendieron 0.05879 BCHSV por 0.00141713 Precio venta: 0.024105
+Precio Promedio BCHSV: 0.02399268
+Valoración: 0.00150588
+Beneficio/Pérdida: -3.59e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:45:09
+Se compraron 0.05879 BCHSV por 0.00141737 Precio compra:0.024109
+Precio Promedio BCHSV: 0.02399275
+Valoración: 0.00150588
+======================================
+2018-12-13 23:46:08
+Se vendieron 0.05879 BCHSV por 0.00141907 Precio venta: 0.024138
+Precio Promedio BCHSV: 0.02399568
+Valoración: 0.00150758
+Beneficio/Pérdida: 1.7e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:46:44
+Se compraron 0.05879 BCHSV por 0.0014199 Precio compra:0.024152
+Precio Promedio BCHSV: 0.02399592
+Valoración: 0.00150758
+======================================
+2018-12-13 23:47:15
+Se vendieron 0.05879 BCHSV por 0.00141825 Precio venta: 0.024124
+Precio Promedio BCHSV: 0.02399933
+Valoración: 0.00150594
+Beneficio/Pérdida: -1.65e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:47:17
+Se compraron 0.05879 BCHSV por 0.00141819 Precio compra:0.024123
+Precio Promedio BCHSV: 0.02399932
+Valoración: 0.00150594
+======================================
+2018-12-13 23:47:30
+Se vendieron 0.05879 BCHSV por 0.0014199 Precio venta: 0.024152
+Precio Promedio BCHSV: 0.0239998
+Valoración: 0.00150764
+Beneficio/Pérdida: 1.7e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:47:31
+Se compraron 0.05879 BCHSV por 0.0014199 Precio compra:0.024152
+Precio Promedio BCHSV: 0.0239998
+Valoración: 0.00150764
+======================================
+2018-12-13 23:47:35
+Se vendieron 0.05879 BCHSV por 0.00141825 Precio venta: 0.024124
+Precio Promedio BCHSV: 0.02399933
+Valoración: 0.001506
+Beneficio/Pérdida: -1.65e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:47:37
+Se compraron 0.05879 BCHSV por 0.00141825 Precio compra:0.024124
+Precio Promedio BCHSV: 0.02399933
+Valoración: 0.001506
+======================================
+2018-12-13 23:50:54
+Se vendieron 0.05879 BCHSV por 0.00142013 Precio venta: 0.024156
+Precio Promedio BCHSV: 0.02400838
+Valoración: 0.00150788
+Beneficio/Pérdida: 1.88e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:50:57
+Se compraron 0.05879 BCHSV por 0.00142013 Precio compra:0.024156
+Precio Promedio BCHSV: 0.02400838
+Valoración: 0.00150788
+======================================
+2018-12-13 23:50:58
+Se vendieron 0.05879 BCHSV por 0.00141843 Precio venta: 0.024127
+Precio Promedio BCHSV: 0.0240079
+Valoración: 0.00150617
+Beneficio/Pérdida: -1.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:51:01
+Se compraron 0.05879 BCHSV por 0.00141843 Precio compra:0.024127
+Precio Promedio BCHSV: 0.0240079
+Valoración: 0.00150617
+======================================
+2018-12-13 23:51:15
+Se vendieron 0.05879 BCHSV por 0.00142013 Precio venta: 0.024156
+Precio Promedio BCHSV: 0.02401238
+Valoración: 0.00150788
+Beneficio/Pérdida: 1.7e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:51:17
+Se compraron 0.05879 BCHSV por 0.00141684 Precio compra:0.0241
+Precio Promedio BCHSV: 0.02401145
+Valoración: 0.00150788
+======================================
+2018-12-13 23:51:25
+Se vendieron 0.05879 BCHSV por 0.00142013 Precio venta: 0.024156
+Precio Promedio BCHSV: 0.02401238
+Valoración: 0.00151117
+Beneficio/Pérdida: 3.29e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:51:26
+Se compraron 0.05879 BCHSV por 0.00142013 Precio compra:0.024156
+Precio Promedio BCHSV: 0.02401238
+Valoración: 0.00151117
+======================================
+2018-12-13 23:51:41
+Se vendieron 0.05879 BCHSV por 0.00141784 Precio venta: 0.024117
+Precio Promedio BCHSV: 0.02401173
+Valoración: 0.00150888
+Beneficio/Pérdida: -2.29e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:51:42
+Se compraron 0.05879 BCHSV por 0.00141784 Precio compra:0.024117
+Precio Promedio BCHSV: 0.02401173
+Valoración: 0.00150888
+======================================
+2018-12-13 23:52:07
+Se vendieron 0.05879 BCHSV por 0.00142072 Precio venta: 0.024166
+Precio Promedio BCHSV: 0.02401527
+Valoración: 0.00151176
+Beneficio/Pérdida: 2.88e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:52:16
+Se compraron 0.05879 BCHSV por 0.00142072 Precio compra:0.024166
+Precio Promedio BCHSV: 0.02401527
+Valoración: 0.00151176
+======================================
+2018-12-13 23:52:32
+Se vendieron 0.05879 BCHSV por 0.00141919 Precio venta: 0.02414
+Precio Promedio BCHSV: 0.02401483
+Valoración: 0.00151023
+Beneficio/Pérdida: -1.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:52:34
+Se compraron 0.05879 BCHSV por 0.00141813 Precio compra:0.024122
+Precio Promedio BCHSV: 0.02401453
+Valoración: 0.00151023
+======================================
+2018-12-13 23:52:39
+Se vendieron 0.05879 BCHSV por 0.00142007 Precio venta: 0.024155
+Precio Promedio BCHSV: 0.02401508
+Valoración: 0.00151217
+Beneficio/Pérdida: 1.94e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:52:40
+Se compraron 0.05879 BCHSV por 0.00142007 Precio compra:0.024155
+Precio Promedio BCHSV: 0.02401508
+Valoración: 0.00151217
+======================================
+2018-12-13 23:52:43
+Se vendieron 0.05879 BCHSV por 0.00141766 Precio venta: 0.024114
+Precio Promedio BCHSV: 0.0240144
+Valoración: 0.00150976
+Beneficio/Pérdida: -2.41e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:52:44
+Se compraron 0.05879 BCHSV por 0.00141766 Precio compra:0.024114
+Precio Promedio BCHSV: 0.0240144
+Valoración: 0.00150976
+======================================
+2018-12-13 23:53:06
+Se vendieron 0.05879 BCHSV por 0.00141925 Precio venta: 0.024141
+Precio Promedio BCHSV: 0.02401728
+Valoración: 0.00151135
+Beneficio/Pérdida: 1.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:53:08
+Se compraron 0.05879 BCHSV por 0.00141984 Precio compra:0.024151
+Precio Promedio BCHSV: 0.02401745
+Valoración: 0.00151135
+======================================
+2018-12-13 23:58:42
+Se vendieron 0.05879 BCHSV por 0.00141819 Precio venta: 0.024123
+Precio Promedio BCHSV: 0.02402745
+Valoración: 0.0015097
+Beneficio/Pérdida: -1.65e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-13 23:58:43
+Se compraron 0.05879 BCHSV por 0.00141819 Precio compra:0.024123
+Precio Promedio BCHSV: 0.02402745
+Valoración: 0.0015097
+======================================
+2018-12-13 23:58:45
+Se vendieron 0.05879 BCHSV por 0.00141995 Precio venta: 0.024153
+Precio Promedio BCHSV: 0.02402795
+Valoración: 0.00151146
+Beneficio/Pérdida: 1.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-13 23:58:47
+Se compraron 0.05879 BCHSV por 0.00141995 Precio compra:0.024153
+Precio Promedio BCHSV: 0.02402795
+Valoración: 0.00151146
+======================================
+2018-12-14 00:00:00
+Se vendieron 0.05879 BCHSV por 0.00141825 Precio venta: 0.024124
+Precio Promedio BCHSV: 0.02402955
+Valoración: 0.00150976
+Beneficio/Pérdida: -1.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:00:01
+Se compraron 0.05879 BCHSV por 0.00141825 Precio compra:0.024124
+Precio Promedio BCHSV: 0.0240302
+Valoración: 0.00150976
+======================================
+2018-12-14 00:00:10
+Se vendieron 0.05879 BCHSV por 0.00141978 Precio venta: 0.02415
+Precio Promedio BCHSV: 0.0240322
+Valoración: 0.00151129
+Beneficio/Pérdida: 1.53e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:00:12
+Se compraron 0.05879 BCHSV por 0.00141849 Precio compra:0.024128
+Precio Promedio BCHSV: 0.02403183
+Valoración: 0.00151129
+======================================
+2018-12-14 00:00:15
+Se vendieron 0.05879 BCHSV por 0.00142113 Precio venta: 0.024173
+Precio Promedio BCHSV: 0.02403258
+Valoración: 0.00151393
+Beneficio/Pérdida: 2.65e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:00:16
+Se compraron 0.05879 BCHSV por 0.00142113 Precio compra:0.024173
+Precio Promedio BCHSV: 0.02403258
+Valoración: 0.00151393
+======================================
+2018-12-14 00:01:05
+Se vendieron 0.05879 BCHSV por 0.00142266 Precio venta: 0.024199
+Precio Promedio BCHSV: 0.02403615
+Valoración: 0.00151546
+Beneficio/Pérdida: 1.53e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:01:06
+Se compraron 0.05879 BCHSV por 0.00142272 Precio compra:0.0242
+Precio Promedio BCHSV: 0.02403617
+Valoración: 0.00151546
+======================================
+2018-12-14 00:02:27
+Se vendieron 0.05879 BCHSV por 0.00142431 Precio venta: 0.024227
+Precio Promedio BCHSV: 0.0240402
+Valoración: 0.00151705
+Beneficio/Pérdida: 1.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:02:28
+Se compraron 0.05879 BCHSV por 0.00142431 Precio compra:0.024227
+Precio Promedio BCHSV: 0.0240402
+Valoración: 0.00151705
+======================================
+2018-12-14 00:03:04
+Se vendieron 0.05879 BCHSV por 0.00142583 Precio venta: 0.024253
+Precio Promedio BCHSV: 0.0240445
+Valoración: 0.00151858
+Beneficio/Pérdida: 1.53e-06
+Venta por Ganancia > 1.5e-06
+======================================
+Trading Bot. Mas de 5 operacioens en Ganancia continua.
+======================================
+2018-12-14 00:03:11
+Se compraron 0.05879 BCHSV por 0.0014246 Precio compra:0.024232
+Precio Promedio BCHSV: 0.02404415
+Valoración: 0.00151858
+======================================
+2018-12-14 00:03:30
+Se vendieron 0.05879 BCHSV por 0.0014263 Precio venta: 0.024261
+Precio Promedio BCHSV: 0.02404463
+Valoración: 0.00152028
+Beneficio/Pérdida: 1.7e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:03:31
+Se compraron 0.05879 BCHSV por 0.00142742 Precio compra:0.02428
+Precio Promedio BCHSV: 0.02404495
+Valoración: 0.00152028
+======================================
+2018-12-14 00:03:48
+Se vendieron 0.05879 BCHSV por 0.00142583 Precio venta: 0.024253
+Precio Promedio BCHSV: 0.0240445
+Valoración: 0.0015187
+Beneficio/Pérdida: -1.59e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:03:49
+Se compraron 0.05879 BCHSV por 0.00142583 Precio compra:0.024253
+Precio Promedio BCHSV: 0.0240445
+Valoración: 0.0015187
+======================================
+2018-12-14 00:03:50
+Se vendieron 0.05879 BCHSV por 0.0014286 Precio venta: 0.0243
+Precio Promedio BCHSV: 0.02404528
+Valoración: 0.00152146
+Beneficio/Pérdida: 2.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:03:51
+Se compraron 0.05879 BCHSV por 0.00142601 Precio compra:0.024256
+Precio Promedio BCHSV: 0.02404455
+Valoración: 0.00152146
+======================================
+2018-12-14 00:03:52
+Se vendieron 0.05879 BCHSV por 0.00142948 Precio venta: 0.024315
+Precio Promedio BCHSV: 0.02404553
+Valoración: 0.00152493
+Beneficio/Pérdida: 3.47e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:03:53
+Se compraron 0.05879 BCHSV por 0.00142948 Precio compra:0.024315
+Precio Promedio BCHSV: 0.02404553
+Valoración: 0.00152493
+======================================
+2018-12-14 00:03:55
+Se vendieron 0.05879 BCHSV por 0.00142677 Precio venta: 0.024269
+Precio Promedio BCHSV: 0.02404477
+Valoración: 0.00152222
+Beneficio/Pérdida: -2.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:03:56
+Se compraron 0.05879 BCHSV por 0.00142677 Precio compra:0.024269
+Precio Promedio BCHSV: 0.02404477
+Valoración: 0.00152222
+======================================
+2018-12-14 00:04:02
+Se vendieron 0.05879 BCHSV por 0.00143013 Precio venta: 0.024326
+Precio Promedio BCHSV: 0.02405005
+Valoración: 0.00152557
+Beneficio/Pérdida: 3.35e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:04:03
+Se compraron 0.05879 BCHSV por 0.00143018 Precio compra:0.024327
+Precio Promedio BCHSV: 0.02405007
+Valoración: 0.00152557
+======================================
+2018-12-14 00:04:13
+Se vendieron 0.05879 BCHSV por 0.0014286 Precio venta: 0.0243
+Precio Promedio BCHSV: 0.02404962
+Valoración: 0.00152399
+Beneficio/Pérdida: -1.59e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:04:15
+Se compraron 0.05879 BCHSV por 0.0014286 Precio compra:0.0243
+Precio Promedio BCHSV: 0.02404962
+Valoración: 0.00152399
+======================================
+2018-12-14 00:04:21
+Se vendieron 0.05879 BCHSV por 0.0014306 Precio venta: 0.024334
+Precio Promedio BCHSV: 0.02405018
+Valoración: 0.00152599
+Beneficio/Pérdida: 2e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:04:23
+Se compraron 0.05879 BCHSV por 0.0014306 Precio compra:0.024334
+Precio Promedio BCHSV: 0.02405018
+Valoración: 0.00152599
+======================================
+2018-12-14 00:04:47
+Se vendieron 0.05879 BCHSV por 0.00143236 Precio venta: 0.024364
+Precio Promedio BCHSV: 0.02405068
+Valoración: 0.00152775
+Beneficio/Pérdida: 1.76e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:04:48
+Se compraron 0.05879 BCHSV por 0.00143236 Precio compra:0.024364
+Precio Promedio BCHSV: 0.02405068
+Valoración: 0.00152775
+======================================
+2018-12-14 00:04:55
+Se vendieron 0.05879 BCHSV por 0.00142995 Precio venta: 0.024323
+Precio Promedio BCHSV: 0.02405
+Valoración: 0.00152534
+Beneficio/Pérdida: -2.41e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:04:56
+Se compraron 0.05879 BCHSV por 0.00143207 Precio compra:0.024359
+Precio Promedio BCHSV: 0.0240506
+Valoración: 0.00152534
+======================================
+2018-12-14 00:04:59
+Se vendieron 0.05879 BCHSV por 0.00143418 Precio venta: 0.024395
+Precio Promedio BCHSV: 0.0240512
+Valoración: 0.00152745
+Beneficio/Pérdida: 2.12e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:05:00
+Se compraron 0.05879 BCHSV por 0.00143418 Precio compra:0.024395
+Precio Promedio BCHSV: 0.0240512
+Valoración: 0.00152745
+======================================
+2018-12-14 00:05:02
+Se vendieron 0.05879 BCHSV por 0.00143218 Precio venta: 0.024361
+Precio Promedio BCHSV: 0.02405158
+Valoración: 0.00152546
+Beneficio/Pérdida: -2e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:05:03
+Se compraron 0.05879 BCHSV por 0.00143224 Precio compra:0.024362
+Precio Promedio BCHSV: 0.02405675
+Valoración: 0.00152546
+======================================
+2018-12-14 00:05:06
+Se vendieron 0.05879 BCHSV por 0.00142801 Precio venta: 0.02429
+Precio Promedio BCHSV: 0.02405555
+Valoración: 0.00152122
+Beneficio/Pérdida: -4.23e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:05:07
+Se compraron 0.05879 BCHSV por 0.00143412 Precio compra:0.024394
+Precio Promedio BCHSV: 0.02405728
+Valoración: 0.00152122
+======================================
+2018-12-14 00:05:14
+Se vendieron 0.05879 BCHSV por 0.00143042 Precio venta: 0.024331
+Precio Promedio BCHSV: 0.02405623
+Valoración: 0.00151752
+Beneficio/Pérdida: -3.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:05:15
+Se compraron 0.05879 BCHSV por 0.00143412 Precio compra:0.024394
+Precio Promedio BCHSV: 0.02405728
+Valoración: 0.00151752
+======================================
+2018-12-14 00:05:30
+Se vendieron 0.05879 BCHSV por 0.00143612 Precio venta: 0.024428
+Precio Promedio BCHSV: 0.02405785
+Valoración: 0.00151952
+Beneficio/Pérdida: 2e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:05:31
+Se compraron 0.05879 BCHSV por 0.00143612 Precio compra:0.024428
+Precio Promedio BCHSV: 0.02405785
+Valoración: 0.00151952
+======================================
+2018-12-14 00:05:34
+Se vendieron 0.05879 BCHSV por 0.0014343 Precio venta: 0.024397
+Precio Promedio BCHSV: 0.02405733
+Valoración: 0.0015177
+Beneficio/Pérdida: -1.82e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:05:35
+Se compraron 0.05879 BCHSV por 0.0014343 Precio compra:0.024397
+Precio Promedio BCHSV: 0.02405733
+Valoración: 0.0015177
+======================================
+2018-12-14 00:05:46
+Se vendieron 0.05879 BCHSV por 0.00143612 Precio venta: 0.024428
+Precio Promedio BCHSV: 0.02405785
+Valoración: 0.00151952
+Beneficio/Pérdida: 1.82e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:05:47
+Se compraron 0.05879 BCHSV por 0.00143612 Precio compra:0.024428
+Precio Promedio BCHSV: 0.02405785
+Valoración: 0.00151952
+======================================
+2018-12-14 00:06:11
+Se vendieron 0.05879 BCHSV por 0.00143459 Precio venta: 0.024402
+Precio Promedio BCHSV: 0.02406492
+Valoración: 0.00151799
+Beneficio/Pérdida: -1.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:06:21
+Se compraron 0.05879 BCHSV por 0.00143506 Precio compra:0.02441
+Precio Promedio BCHSV: 0.02406505
+Valoración: 0.00151799
+======================================
+2018-12-14 00:06:39
+Se vendieron 0.05879 BCHSV por 0.00143254 Precio venta: 0.024367
+Precio Promedio BCHSV: 0.02406433
+Valoración: 0.00151546
+Beneficio/Pérdida: -2.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:06:40
+Se compraron 0.05879 BCHSV por 0.00143254 Precio compra:0.024367
+Precio Promedio BCHSV: 0.02406433
+Valoración: 0.00151546
+======================================
+2018-12-14 00:06:43
+Se vendieron 0.05879 BCHSV por 0.00143512 Precio venta: 0.024411
+Precio Promedio BCHSV: 0.02406507
+Valoración: 0.00151805
+Beneficio/Pérdida: 2.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:06:44
+Se compraron 0.05879 BCHSV por 0.00143512 Precio compra:0.024411
+Precio Promedio BCHSV: 0.02406507
+Valoración: 0.00151805
+======================================
+2018-12-14 00:06:49
+Se vendieron 0.05879 BCHSV por 0.0014333 Precio venta: 0.02438
+Precio Promedio BCHSV: 0.02406455
+Valoración: 0.00151623
+Beneficio/Pérdida: -1.82e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:06:50
+Se compraron 0.05879 BCHSV por 0.0014333 Precio compra:0.02438
+Precio Promedio BCHSV: 0.02406455
+Valoración: 0.00151623
+======================================
+2018-12-14 00:09:18
+Se vendieron 0.05879 BCHSV por 0.00143077 Precio venta: 0.024337
+Precio Promedio BCHSV: 0.0240828
+Valoración: 0.0015137
+Beneficio/Pérdida: -2.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:09:30
+Se compraron 0.05879 BCHSV por 0.00142877 Precio compra:0.024303
+Precio Promedio BCHSV: 0.02408223
+Valoración: 0.0015137
+======================================
+2018-12-14 00:10:01
+Se vendieron 0.05879 BCHSV por 0.00142595 Precio venta: 0.024255
+Precio Promedio BCHSV: 0.02408346
+Valoración: 0.00151088
+Beneficio/Pérdida: -2.82e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:10:02
+Se compraron 0.05879 BCHSV por 0.00142601 Precio compra:0.024256
+Precio Promedio BCHSV: 0.02408347
+Valoración: 0.00151088
+======================================
+2018-12-14 00:10:24
+Se vendieron 0.05879 BCHSV por 0.0014283 Precio venta: 0.024295
+Precio Promedio BCHSV: 0.024087
+Valoración: 0.00151317
+Beneficio/Pérdida: 2.29e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:10:26
+Se compraron 0.05879 BCHSV por 0.00142883 Precio compra:0.024304
+Precio Promedio BCHSV: 0.02408715
+Valoración: 0.00151317
+======================================
+2018-12-14 00:10:42
+Se vendieron 0.05879 BCHSV por 0.00143042 Precio venta: 0.024331
+Precio Promedio BCHSV: 0.0240876
+Valoración: 0.00151476
+Beneficio/Pérdida: 1.59e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:10:43
+Se compraron 0.05879 BCHSV por 0.00143042 Precio compra:0.024331
+Precio Promedio BCHSV: 0.0240876
+Valoración: 0.00151476
+======================================
+2018-12-14 00:10:44
+Se vendieron 0.05879 BCHSV por 0.00142795 Precio venta: 0.024289
+Precio Promedio BCHSV: 0.0240869
+Valoración: 0.00151229
+Beneficio/Pérdida: -2.47e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:10:46
+Se compraron 0.05879 BCHSV por 0.00142789 Precio compra:0.024288
+Precio Promedio BCHSV: 0.02408688
+Valoración: 0.00151229
+======================================
+2018-12-14 00:10:53
+Se vendieron 0.05879 BCHSV por 0.00142619 Precio venta: 0.024259
+Precio Promedio BCHSV: 0.0240864
+Valoración: 0.00151058
+Beneficio/Pérdida: -1.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:10:55
+Se compraron 0.05879 BCHSV por 0.00142619 Precio compra:0.024259
+Precio Promedio BCHSV: 0.0240864
+Valoración: 0.00151058
+======================================
+2018-12-14 00:11:16
+Se vendieron 0.05879 BCHSV por 0.00142807 Precio venta: 0.024291
+Precio Promedio BCHSV: 0.02409237
+Valoración: 0.00151246
+Beneficio/Pérdida: 1.88e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:11:17
+Se compraron 0.05879 BCHSV por 0.0014286 Precio compra:0.0243
+Precio Promedio BCHSV: 0.02409252
+Valoración: 0.00151246
+======================================
+2018-12-14 00:11:20
+Se vendieron 0.05879 BCHSV por 0.00143089 Precio venta: 0.024339
+Precio Promedio BCHSV: 0.02409317
+Valoración: 0.00151476
+Beneficio/Pérdida: 2.29e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:11:21
+Se compraron 0.05879 BCHSV por 0.00143089 Precio compra:0.024339
+Precio Promedio BCHSV: 0.02409317
+Valoración: 0.00151476
+======================================
+2018-12-14 00:11:23
+Se vendieron 0.05879 BCHSV por 0.00142813 Precio venta: 0.024292
+Precio Promedio BCHSV: 0.02409238
+Valoración: 0.00151199
+Beneficio/Pérdida: -2.76e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:11:24
+Se compraron 0.05879 BCHSV por 0.00142813 Precio compra:0.024292
+Precio Promedio BCHSV: 0.02409238
+Valoración: 0.00151199
+======================================
+2018-12-14 00:11:51
+Se vendieron 0.05879 BCHSV por 0.00142995 Precio venta: 0.024323
+Precio Promedio BCHSV: 0.0240929
+Valoración: 0.00151382
+Beneficio/Pérdida: 1.82e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:11:52
+Se compraron 0.05879 BCHSV por 0.00142995 Precio compra:0.024323
+Precio Promedio BCHSV: 0.0240929
+Valoración: 0.00151382
+======================================
+2018-12-14 00:12:18
+Se vendieron 0.05879 BCHSV por 0.00142742 Precio venta: 0.02428
+Precio Promedio BCHSV: 0.02409835
+Valoración: 0.00151129
+Beneficio/Pérdida: -2.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:12:21
+Se compraron 0.05879 BCHSV por 0.00142966 Precio compra:0.024318
+Precio Promedio BCHSV: 0.02409898
+Valoración: 0.00151129
+======================================
+2018-12-14 00:12:32
+Se vendieron 0.05879 BCHSV por 0.00142795 Precio venta: 0.024289
+Precio Promedio BCHSV: 0.0240985
+Valoración: 0.00150958
+Beneficio/Pérdida: -1.7e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:12:33
+Se compraron 0.05879 BCHSV por 0.00142795 Precio compra:0.024289
+Precio Promedio BCHSV: 0.0240985
+Valoración: 0.00150958
+======================================
+2018-12-14 00:13:25
+Se vendieron 0.05879 BCHSV por 0.00142572 Precio venta: 0.024251
+Precio Promedio BCHSV: 0.02410335
+Valoración: 0.00150735
+Beneficio/Pérdida: -2.23e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:13:26
+Se compraron 0.05879 BCHSV por 0.00142724 Precio compra:0.024277
+Precio Promedio BCHSV: 0.02410378
+Valoración: 0.00150735
+======================================
+2018-12-14 00:13:39
+Se vendieron 0.05879 BCHSV por 0.00143189 Precio venta: 0.024356
+Precio Promedio BCHSV: 0.0241051
+Valoración: 0.00151199
+Beneficio/Pérdida: 4.64e-06
+Venta por Ganancia > 1.5e-06
+======================================
+2018-12-14 00:13:40
+Se compraron 0.05879 BCHSV por 0.00143177 Precio compra:0.024354
+Precio Promedio BCHSV: 0.02410507
+Valoración: 0.00151199
+======================================
+2018-12-14 00:13:50
+Se vendieron 0.05879 BCHSV por 0.00142789 Precio venta: 0.024288
+Precio Promedio BCHSV: 0.02410397
+Valoración: 0.00150811
+Beneficio/Pérdida: -3.88e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:13:51
+Se compraron 0.05879 BCHSV por 0.00143148 Precio compra:0.024349
+Precio Promedio BCHSV: 0.02410498
+Valoración: 0.00150811
+======================================
+2018-12-14 00:13:59
+Se vendieron 0.05879 BCHSV por 0.00142772 Precio venta: 0.024285
+Precio Promedio BCHSV: 0.02410392
+Valoración: 0.00150435
+Beneficio/Pérdida: -3.76e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:14:00
+Se compraron 0.05879 BCHSV por 0.0014316 Precio compra:0.024351
+Precio Promedio BCHSV: 0.02410502
+Valoración: 0.00150435
+======================================
+2018-12-14 00:14:05
+Se vendieron 0.05879 BCHSV por 0.00142807 Precio venta: 0.024291
+Precio Promedio BCHSV: 0.024111
+Valoración: 0.00150082
+Beneficio/Pérdida: -3.53e-06
+Venta por Ganancia <= - 1.5e-06
+======================================
+2018-12-14 00:14:06
+Se compraron 0.05879 BCHSV por 0.00142936 Precio compra:0.024313
+Precio Promedio BCHSV: 0.02411137
+Valoración: 0.00150082
+======================================
+2018-12-14 00:14:06
+Se vendieron 0.05879 BCHSV por 0.00142936 Precio venta: 0.024313
+Precio Promedio BCHSV: 0.02411137
+Valoración: 0.00150082
+Beneficio/Pérdida: 0.0
+Venta por Porcentaje <= -1.0%
+======================================
+Trading Bot. Stop Loss del 1.0% en pérdidas
+======================================
