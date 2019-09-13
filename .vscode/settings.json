@@ -8,4 +8,5 @@
     "html.validate.styles": true,
     "python.linting.pylintArgs": [],
     "python.linting.pylintUseMinimalCheckers": true,
+    "git.ignoreLimitWarning": true,
 }
