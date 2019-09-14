@@ -9,6 +9,7 @@ from sympy.parsing.sympy_parser import (
     parse_expr, standard_transformations, implicit_multiplication_application)
 import os
 
+# Este comentario lo estoy insertando con la rama nuevas modificaciones
 
 os.system('clear')
 
