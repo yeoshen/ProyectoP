@@ -9,7 +9,6 @@ from sympy.parsing.sympy_parser import (
     parse_expr, standard_transformations, implicit_multiplication_application)
 import os
 
-# a, b, c = symbols('a,b,c')
 
 os.system('clear')
 
