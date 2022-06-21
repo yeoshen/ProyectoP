@@ -21,7 +21,7 @@ KuCoin==0.1
 lazy-object-proxy==1.4.1
 mccabe==0.6.1
 mpmath==1.1.0
-numpy==1.16.4
+numpy==1.22.0
 post==2019.4.13
 prettytable==0.7.2
 public==2019.4.13
