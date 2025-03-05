@@ -152,8 +152,8 @@ interval = Client.KLINE_INTERVAL_30MINUTE
 
 # save_binance_historical_date(symbol, interval, start, end)
 
-api_key = 'Nrzi6UVKmTHblM8MEi9N5324yDW3NYqbXIPzzj3kPqOQwwdaPLBllvyHuC88jmkw'
-api_secret = '63MBM5YfRvxWoyQXRgJHbjty9jdSQEIt8fING6LXGXgtmEKqYIJfqD87iXM38YUN'
+api_key = ''
+api_secret = ''
 
 client = Client(api_key, api_secret)
 
